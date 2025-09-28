@@ -1,5 +1,5 @@
 # Deepfake-Resistant Telehealth Verification
-
+![Banner](docs/banner.png)
 ## Overview
 This project implements a **multi-factor verification system** for telehealth security, designed to resist deepfake impersonation attacks.  
 It combines:
