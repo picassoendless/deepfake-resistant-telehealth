@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+torch
+torchaudio
+torchvision
+transformers
+opencv-python
+librosa
+soundfile
+flask
+python-dotenv
