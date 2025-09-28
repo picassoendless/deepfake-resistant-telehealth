@@ -1,5 +1,5 @@
 # Deepfake-Resistant Telehealth Verification
-
+![Banner](docs/banner.png)
 ## Overview
 This project implements a **multi-factor verification system** for telehealth security, designed to resist deepfake impersonation attacks.  
 It combines:
@@ -22,7 +22,7 @@ This project contributes to the U.S. **National Cybersecurity Strategy (2023)** 
 
 ## Features
 - Multi-modal biometric fusion
-- Privacy-preserving (federated learning + differential privacy)
+- Privacy-preserving (federated learning + differential privacy).
 - WebRTC-based middleware integration
 - SOC hooks (Splunk/ELK connectors)
 - HIPAA/GDPR compliance flow diagrams
@@ -36,7 +36,7 @@ This project contributes to the U.S. **National Cybersecurity Strategy (2023)** 
 
 ## Getting Started
 ```bash
-git clone https://github.com/<yourusername>/deepfake-resistant-telehealth.git
+git clone https://github.com/picassoendless/deepfake-resistant-telehealth.git
 cd deepfake-resistant-telehealth
 pip install -r requirements.txt
 python src/main.py
